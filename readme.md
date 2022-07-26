@@ -25,5 +25,14 @@ The thirteen features in the dataset are:
 - Current version: latest version on Play Store
 - Android version: latest android version
 
-The database is published on Kaggle and can be found at: 
+The original database is published on Kaggle and can be found at: 
 https://www.kaggle.com/datasets/lava18/google-play-store-apps
+
+## Initial data cleaning
+The dataset has been scraped from the Play Store. At first view, several anomalies are spotted. 
+- Several columns have data corresponding to the previous column
+- The category feature has unexpected values
+- Some categorical features have unexpected non-letter characters
+- Some features have duplicated values in the same observation
+
+Most of these problems are easily fixable using Excel, as the filter function allows to find outlier/wrong values pretty easily, especially for categorical values. I've conducted the initial data cleaning in excel and uploaded the final clean dataset as a csv to this repository. 

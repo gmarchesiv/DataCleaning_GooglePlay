@@ -6,7 +6,7 @@ The objective of this project is to highlight the specific characteristics of th
 - Are ratings price sensitive?
 - Do other features such as number of reviews, number of installs or content rating have any influece on rating? 
 
-The complete analysis is conducted in the Jupyter notebook. Annotations are done after each question and the conclusions are summarized at the end of the notebook.  
+The complete analysis is conducted in the Jupyter notebook. Annotations are done after each question and conclusions are summarized at the end of the notebook.  
 
 ## Dataset
 The dataset contains information for 9660 apps on the Google-Play store. 

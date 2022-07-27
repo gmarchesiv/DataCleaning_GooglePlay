@@ -35,4 +35,8 @@ The dataset has been scraped from the Play Store. At first view, several anomali
 - Some categorical features have unexpected non-letter characters
 - Some features have duplicated values in the same observation
 
+The Category feature was in all caps. Sorted every column alphabetically and displaced the data back to the corresponding column. 
+Sort each column. check no weird values. extract or replace. 
+Fill Nan. Missing Genres are given the same as Category and vice versa. 
+
 Most of these problems are easily fixable using Excel, as the filter function allows to find outlier/wrong values pretty easily, especially for categorical values. I've conducted the initial data cleaning in excel and uploaded the final clean dataset as a csv to this repository. 

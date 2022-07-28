@@ -12,7 +12,7 @@ I aim to answer the following questions:
 The complete analysis is conducted in this Jupyter notebook. Annotations are done after each section and conclusions are summarized at the end of the notebook.  
 
 ## Dataset
-The dataset contains information for 9660 apps on the Google-Play store. 
+The dataset contains information for 10,000+ apps on the Google-Play store. 
 The thirteen features in the dataset are: 
 - App: application name
 - Category:  

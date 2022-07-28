@@ -1,12 +1,15 @@
 # Google Play Store Apps Analysis
 
 ## Project objective
-The objective of this project is to highlight the specific characteristics of the most popular apps, by rating. I aim to answer the following questions: 
-- Are ratings category sensitive?
-- Are ratings price sensitive?
-- Do other features such as number of reviews, number of installs or content rating have any influece on rating? 
+The objective of this project is to highlight the specific characteristics of the most popular apps by rating at Google Play Store. 
 
-The complete analysis is conducted in the Jupyter notebook. Annotations are done after each question and conclusions are summarized at the end of the notebook.  
+I aim to answer the following questions:
+
+- What categories have better ratings?
+- Are there differences in ratings between paid and free apps?
+- Do other features such as number of reviews and content rating have any influece on rating?
+
+The complete analysis is conducted in this Jupyter notebook. Annotations are done after each section and conclusions are summarized at the end of the notebook.  
 
 ## Dataset
 The dataset contains information for 9660 apps on the Google-Play store. 
